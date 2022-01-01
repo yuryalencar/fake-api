@@ -3,8 +3,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/yuryalencar/fake-api?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/yuryalencar/fake-api?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/yuryalencar/fake-api?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/yuryalencar/fake-api?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/yuryalencar/fake-api?style=for-the-badge)
+![GitHub open issues](https://img.shields.io/github/issues/yuryalencar/fake-api?style=for-the-badge)
+![GitHub open pull requests](https://img.shields.io/github/issues-pr/yuryalencar/fake-api?style=for-the-badge)
 
 <div align="center">
   <img src="https://github.com/yuryalencar/fake-api/blob/main/Robot%20framework.png" alt="Banner do Curso">
