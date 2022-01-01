@@ -6,8 +6,10 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/yuryalencar/fake-api?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/yuryalencar/fake-api?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
+<div align="center">
+  <img src="https://github.com/yuryalencar/fake-api/blob/main/Robot%20framework.png" alt="Banner do Curso">
+</div>
+  
 > API fake utilizando JSONPlaceholder para auxiliar o ensino de Automação de API's usando Robot Framework. Link do Curso: https:exemplocurso.com
 
 ### Ajustes e melhorias
